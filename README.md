@@ -1,1 +1,1 @@
-# image-canyonai.sng
+# reference-architectures-logo.sng
